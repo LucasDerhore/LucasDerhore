@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 ### As you can see my name is Lucas, I'm a junior developer, I followed a 6 months training at The Hacking Project.
 
