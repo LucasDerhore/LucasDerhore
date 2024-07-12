@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasderhore" alt="lucasderhore" /></a> </p>
-
 - 🌱 I’m currently learning **web3**
 
 - 📫 How to reach me **derhore.lucas@gmail.com**
