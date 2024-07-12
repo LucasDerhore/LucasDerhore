@@ -1,6 +1,6 @@
 # Hi 👋
 
-### As you can see my name is Lucas, I'm a junior developer, I followed a 6 months training at The Hacking Project.
+### I'm Lucas, Freelance fullstack developer.
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
